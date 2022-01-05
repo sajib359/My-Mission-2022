@@ -1,0 +1,38 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+span{
+    color: red;
+}
+.headding{
+    font-size: 35px;
+    border-left: 7px solid red;
+    padding-left: 20px;
+}
+.top-paragraph{
+    font-size: 20px;
+}
+.top-section{
+    display: flex;
+}
+.width{
+    width: 50%;
+    margin: 50px;
+
+}
+a{
+    text-decoration: none;
+    background-image: linear-gradient(red,gray);
+    padding: 15px;
+}
+.width img{
+    width: 70%;
+}
+.about{
+    margin-top: 30px;
+    font-size: 20px;
+}
+.second-head{
+    text-align: center;
+    font-size: 30px;
+}

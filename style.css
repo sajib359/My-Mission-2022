@@ -36,3 +36,24 @@ a{
     text-align: center;
     font-size: 30px;
 }
+.width-img img{
+    width: 30%;
+}
+.width-img{
+    width: 30%;
+    margin: 30px;
+    padding: 30px;
+
+}
+.mission{
+    background-color: salmon;
+    border-radius: 15px;
+}
+.vission{
+    background-color: skyblue;
+    border-radius: 15px;
+}
+.goal{
+    background-color: gray;
+    border-radius: 15px;
+}

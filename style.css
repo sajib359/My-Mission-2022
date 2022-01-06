@@ -40,7 +40,7 @@ a{
     width: 30%;
 }
 .width-img{
-    width: 30%;
+    width: 25%;
     margin: 30px;
     padding: 30px;
 
@@ -56,4 +56,25 @@ a{
 .goal{
     background-color: gray;
     border-radius: 15px;
+}
+.middle-section{
+    display: flex;
+    margin-top: 50px;
+}
+.last-section{
+    display: flex;
+    margin-top: 50px;
+}
+.about-section{
+    display: flex;
+}
+small{
+    text-align: left;
+    color: blue;
+
+}
+footer{
+    text-align: center;
+    background-color: black;
+    color: white;
 }
